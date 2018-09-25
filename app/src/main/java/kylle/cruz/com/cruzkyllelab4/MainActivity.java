@@ -7,8 +7,6 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Toast;
 
-import kylle.cruz.com.cruzkyllelab4.R;
-
 public class MainActivity extends AppCompatActivity {
 
     @Override
